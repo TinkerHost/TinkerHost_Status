@@ -1,0 +1,129 @@
+<!DOCYTYPE html>
+<html>
+<head>
+    <title>TinkerHost Status Page</title>
+    <meta name="description" content="Tinkerhost Status Page: View system status for TinkerHost">
+    <style>
+        :root{--bs-body-font-family: 'Trebuchet MS',system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";}
+        .custom\:logo-filter {filter: brightness(0) invert(1);}
+        .custom\:anchor {padding-top: 68px; margin-top: -68px;}
+    </style>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.min.css" integrity="sha384-yFipqvI/ayHF6QByfjfu1z+dGf+HGe892JmkJ/R8e2mqsM8NgYmjxiljI5ntHpJr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous" defer></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2136830075535609"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+    <a class="visually-hidden-focusable" href="#content">Skip to main content</a>
+    <header class="px-3 py-1 text-bg-dark fixed-top border-bottom border-white">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Navbar">
+            <div class="container">
+                <a class="navbar-brand custom:logo-filter" href="https://tinkerhost.net?ref=status-subdomain&type=click&placement=header">
+                    <img src="/images/TH-slg-white-28.svg" height="40" alt="TinkerHost Logo" class="me-2" loading="eager" decoding="async">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon" aria-hidden="true"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarsExample07">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item"><a class="nav-link" href="https://tinkerhost.net?ref=status&type=click&placement=footer" data-to="home">Home</a></li>
+                        <li class="nav-item"><a href="https://tinkerhost.net/free.php?ref=status&type=click&placement=footer" class="nav-link" data-to="free">Free Plan</a></li>
+                        <li class="nav-item"><a href="https://tinkerhost.net/premium.php?ref=status&type=click&placement=footer" class="nav-link" data-to="premium">Premium Plan</a> </li>
+                        <li class="nav-item"><a href="https://tinkerhost.net/domains.php?ref=status&type=click&placement=footer" class="nav-link" data-to="domains">Domains</a></li>
+                        <li class="nav-item"><a href="https://tinkerhost.net/support.php?ref=status&type=click&placement=footer" class="nav-link" data-to="support">Support</a></li>
+                        <li class="nav-item"><a href="https://tinkerhost.net/legal?ref=status&type=click&placement=footer" class="nav-link" data-to="legal">Legal</a></li>
+                    </ul>
+                    <div class="text-end">
+                        <a href="https://app.tinkerhost.net/login?ref=status&type=click&placement=footer" class="btn btn-outline-light me-2">Login</a>
+                        <a href="https://app.tinkerhost.net/signup?ref=status&type=click&placement=footer" class="btn btn-warning">Sign-up</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <br><br><br>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/davidjbradshaw/iframe-resizer@master/js/iframeResizer.min.js"></script>
+    <iframe class="htframe" src="https://wl.hetrixtools.com/r/0b375d1ef51b353feb2672db97682e3e/" width="100%" scrolling="no" style="border:none;" sandbox="allow-scripts allow-same-origin allow-popups" onload="iFrameResize([{log:false}],'.htframe')"></iframe>
+
+        <div class="p3 text-bg-dark">
+        <div class="container">
+            <footer class="pt-5">
+                <h3 class="visually-hidden">Footer</h3>
+                <div class="row">
+                    <div class="col-6 col-md-2 mb-3">
+                        <h2 class="fs-5">Explore</h2>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/free.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Free Hosting</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/premium.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Premium Hosting</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/domains.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Domain Names</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/advertise.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Advertise with us</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 link-secondary">Status Page</a></li>
+                        </ul>
+                    </div>
+            
+                    <div class="col-6 col-md-2 mb-3">
+                        <h2 class="fs-5">Legal</h2>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/legal/terms.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Terms of Service</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/legal/privacy-policy.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Privacy Policy</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/legal/responsible-disclosure.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Responsible Disclousure</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/legal/cookie-policy.php?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Cookie Policy</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkerhost.net/legal/#site-credits?ref=status&type=click&placement=footer" class="nav-link p-0 link-secondary">Site Credits</a></li>
+                        </ul>
+                    </div>
+            
+                    <div class="col-6 col-md-2 mb-3">
+                        <h2 class="fs-5">TinkerTechLab</h2>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="https://tinkertechlab.com/?ref=tinkerhost&type=click&placement=th-footer" target="_blank" class="nav-link p-0 link-secondary">Home</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkertechlab.com/tutorials?ref=tinkerhost&type=click&placement=th-footer" target="_blank" class="nav-link p-0 link-secondary">Tutorials</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkertechlab.com/support-us?ref=tinkerhost&type=click&placement=th-footer" target="_blank" target="_blank" class="nav-link p-0 link-secondary">Support Us</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkertechlab.com/shop?ref=tinkerhost&type=click&placement=th-footer" target="_blank" class="nav-link p-0 link-secondary">Shop</a></li>
+                            <li class="nav-item mb-2"><a href="https://tinkertechlab.com/about?ref=tinkerhost&type=click&placement=th-footer" target="_blank" class="nav-link p-0 link-secondary">About us</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-1 border-start border-light border-opacity-25 mb-3" role="presentation"></div>
+                    <section class="col-md-5 mb-3">
+                        <div class="row h-100">
+                            <div class="col-12">
+                                <h2>Join the TinkerTechLab Newsletter!</h2>
+                            </div>
+                            <hr class="my-3 my-lg-auto">
+                            <form class="col-12">
+                                <p>Get notified about updates, coupons, and new articles!</p>
+                                <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                                <label for="newsletter1" class="visually-hidden">Email address</label>
+                                <input id="newsletter1" type="email" autocomplete="email" class="form-control" placeholder="Email address">
+                                <button class="btn btn-primary" type="button">Subscribe</button>
+                                </div>
+                            </form>
+                        </div>
+                    </section>
+                </div>
+            
+                <div class="row pt-4 mt-2 border-top">
+                    <div class="col-12 col-lg-4">
+                        <p>&copy;<?=date('Y')?> TinkerHost and TinkerTechLab. All rights reserved.</p>
+                    </div>
+                    <div class="col-12 col-lg-4 text-lg-center">
+                        <p class="text-muted">&nbsp;</p>
+                    </div>
+                    <div class="col-12 col-lg-4 text-lg-end">
+                        <ul class="float-lg-end list-unstyled d-flex">
+                            <li class="ms-3"><a class="link-light" href="https://www.youtube.com/channel/UCUEsZhAnRquTgbQrz9RGDUw"><span class="visually-hidden">Visit us on YouTube</span><span class="bi bi-youtube" aria-hidden="true"></span></a></li>
+                            <li class="ms-3"><a class="link-light" href="https://twitter.com/tinkertechlab"><span class="visually-hidden">Visit us on Twitter</span><span class="bi bi-twitter" aria-hidden="true"></span></a></li>
+                            <li class="ms-3"><a class="link-light" href="https://codepen.io/tinkertechlab">
+                                <span class="visually-hidden">Visit us on CodePen</span>
+                                <svg style="vertical-align: top;" aria-hidden="true" height="19" width="16"><use xlink:href="#FontAwesome__fa-codepen"></use></svg>
+                            </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>      
+</body>
+</html>
